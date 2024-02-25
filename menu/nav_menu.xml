@@ -1,3 +1,15 @@
+To create Menu file:
+1.res-->right click
+2.new-->android resource directory
+3.name-->menu
+4.Resource type-->menu
+and in that menu dirctory create a new menu resource file name "nav_menu"
+
+
+
+
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <menu
     xmlns:android="http://schemas.android.com/apk/res/android"
